@@ -16,7 +16,8 @@ local whitelist = {
     ["5131671552"] = true,      
     ["7030794444"] = true,    
     ["3089892022"] = true,            
-    ["5851299498"] = true,                                      
+    ["5851299498"] = true,
+    ["5725111908"] = true,
 }
 
 local function isPlayerWhitelisted(player)
