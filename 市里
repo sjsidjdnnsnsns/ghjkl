@@ -20,6 +20,7 @@ local whitelist = {
     ["5725111908"] = true,
     ["3935063254"] = true,
     ["4635007875"] = true,
+    ["4124852953"] = true, --管理员朋友
 }
 
 local function isPlayerWhitelisted(player)
